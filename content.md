@@ -5,7 +5,7 @@
   <h2>Building VR on the Web</h2>
 </div>
 
-Ram / [X]plorer / Arcesium  <!-- .element: class="talk-info" -->
+Shahbaz / MozUnicorn's Virtual Day <!-- .element: class="talk-info" -->
 
 ------
 
@@ -573,5 +573,5 @@ AFRAME.registerComponent('crazy-position', {
 
 # Demo
 
-- Links : [gurumukhi.github.io](http://gurumukhi.github.io)
+- Links : [shahbaz17.github.io](http://shahbaz17.github.io)
 
