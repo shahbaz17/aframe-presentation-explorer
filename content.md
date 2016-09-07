@@ -571,7 +571,8 @@ AFRAME.registerComponent('crazy-position', {
 
 ------
 
-# Demo
+# Thank you
 
-- Links : [shahbaz17.github.io](http://shahbaz17.github.io)
+- Slide avalaible @ : [https://shahbaz17.github.io/aframe-presentation-explorer](https://shahbaz17.github.io/aframe-presentation-explorer)
+- Telegram , Twitter and Facebook handle  : @mdsbzalam
 
