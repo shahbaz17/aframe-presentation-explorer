@@ -557,7 +557,7 @@ AFRAME.registerComponent('crazy-position', {
 
 <!-- .slide: class="slide__questionsx" data-background="" style="" -->
 
-# Thanks !  <!-- .element: style="" -->
+# Aframe - links  <!-- .element: style="" -->
 
 - Try it out [aframe.io](https://aframe.io)
 - Twitter : AFrame | [@aframevr](https://twitter.com/aframevr)
