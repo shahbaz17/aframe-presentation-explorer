@@ -575,4 +575,5 @@ AFRAME.registerComponent('crazy-position', {
 
 - Slide avalaible @ : [https://shahbaz17.github.io/aframe-presentation-explorer](https://shahbaz17.github.io/aframe-presentation-explorer)
 - Telegram , Twitter and Facebook handle  : @mdsbzalam
+- Gmail : [mdsbzalam@gmail.com](mdsbzalam@gmail.com)
 
