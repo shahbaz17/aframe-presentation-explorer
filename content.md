@@ -5,7 +5,7 @@
   <h2>Building VR on the Web</h2>
 </div>
 
-Shahbaz / MozUnicorn's Virtual Day <!-- .element: class="talk-info" -->
+<!-- .element: class="talk-info" -->
 
 ------
 
